@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlfinePontia
+- 👀 I’m interested in embedded system
+- 🌱 I’m currently learning electronic engineering in Tanjungpura University
+- 💞️ I’m looking to collaborate on education in embedded system
+- 📫 feel free to email me on alfineranai464@gmail.com
